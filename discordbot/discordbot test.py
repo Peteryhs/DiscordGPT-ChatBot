@@ -44,7 +44,7 @@ async def on_message(message):
         await message.channel.send(response.choices[0].message.content)
 
 #run the bot
-client.run("MTExOTY4NzUyMTU0NzMyOTU5Ng.GrBmAz.Mvl3YdMDHKl0G83TzYxLJAwU202hdIfcG9oBXQ")
+client.run("YOUR DISCORD BOT TOKEN")
 
 
 
